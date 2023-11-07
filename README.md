@@ -1,5 +1,3 @@
-Certainly! Creating a GitHub README is a great way to provide an overview of your code and make it more accessible to others. Here's a template you can use for your README:
-
 # Cancer Classification Neural Network
 
 A simple feedforward neural network with backpropagation for binary cancer classification.
